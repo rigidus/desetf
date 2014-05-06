@@ -1,0 +1,15 @@
+/home/rigidus/repo/de.setf/de.setf.utility/bsd/bsd.asd
+/home/rigidus/repo/de.setf/de.setf.utility/dot/dot.asd
+/home/rigidus/repo/de.setf/de.setf.utility/utility.asd
+/home/rigidus/repo/de.setf/de.setf.utility/asdf/asdf.asd
+/home/rigidus/repo/de.setf/de.setf.utility/clos/clos.asd
+/home/rigidus/repo/de.setf/de.setf.utility/mime/mime.asd
+/home/rigidus/repo/de.setf/de.setf.utility/test/test.asd
+/home/rigidus/repo/de.setf/de.setf.utility/graph/graph.asd
+/home/rigidus/repo/de.setf/de.setf.utility/codecs/codecs.asd
+/home/rigidus/repo/de.setf/de.setf.utility/walker/walker.asd
+/home/rigidus/repo/de.setf/de.setf.utility/codecs/etf/etf.asd
+/home/rigidus/repo/de.setf/de.setf.utility/dot/tests/tests.asd
+/home/rigidus/repo/de.setf/de.setf.utility/codecs/bert/bert.asd
+/home/rigidus/repo/de.setf/de.setf.utility/codecs/test/test.asd
+/home/rigidus/repo/de.setf/de.setf.utility/test/rspec/rspec.asd

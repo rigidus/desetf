@@ -1,0 +1,7 @@
+/home/rigidus/repo/de.setf/de.setf.amqp/amqp.asd
+/home/rigidus/repo/de.setf/de.setf.amqp/test/test.asd
+/home/rigidus/repo/de.setf/de.setf.amqp/tools/tools.asd
+/home/rigidus/repo/de.setf/de.setf.amqp/rabbitmq/rabbitmq.asd
+/home/rigidus/repo/de.setf/de.setf.amqp/amqp-1-1-0-8-0/amqp-1-1-0-8-0.asd
+/home/rigidus/repo/de.setf/de.setf.amqp/amqp-1-1-0-9-0/amqp-1-1-0-9-0.asd
+/home/rigidus/repo/de.setf/de.setf.amqp/amqp-1-1-0-9-1/amqp-1-1-0-9-1.asd

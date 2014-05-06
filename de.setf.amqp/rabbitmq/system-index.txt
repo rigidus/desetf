@@ -1,0 +1,1 @@
+/home/rigidus/repo/de.setf/de.setf.amqp/rabbitmq/rabbitmq.asd

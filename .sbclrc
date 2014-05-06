@@ -1,0 +1,22 @@
+;; -*- Mode: lisp -*-
+#-quicklisp
+(let ((quicklisp-init (merge-pathnames "quicklisp/setup.lisp"
+                                       (user-homedir-pathname))))
+  (when (probe-file quicklisp-init)
+    (load quicklisp-init)))
+
+;; (push #p"/home/rigidus/repo/uber/" asdf:*central-registry*)
+
+#+quicklisp
+(mapcar #'(lambda (x)
+            (pushnew x ql:*local-project-directories*))
+        (list #P"~/repo/uber/"
+              #P"~/repo/desetf/de.setf.amqp/rabbitmq/"
+              #P"~/repo/desetf/de.setf.amqp/amqp-1-1-0-8-0/"
+              #P"~/repo/desetf/de.setf.amqp/"
+              #P"~/repo/desetf/de.setf.utility/"
+              #P"~/repo/desetf/com.b9.puri.ppcre/puri-ppcre/"
+              #P"~/repo/desetf/de.setf.utility/codecs/"
+              #P"~/repo/desetf/de.setf.utility/mime/"
+              #P"~/repo/desetf/de.setf.amqp/amqp-1-1-0-9-1/"
+              ))
